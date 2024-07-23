@@ -18,7 +18,5 @@ Me permite hacer llamado estilo.css para aplicarlo a mi proyecto, se coloca en e
 
 
 ## Contacto
-Para más información, puedes contactarme en [mi_email@example.com][def].
+Para más información, puedes contactarme en [luz.arias@gmail.com]
 
-
-[def]: luz.arias@gmail.com
