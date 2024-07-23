@@ -12,3 +12,13 @@ Me permite hacer llamado estilo.css para aplicarlo a mi proyecto, se coloca en e
 
       <link rel="stylesheet" href="./Estilos/estilo.css">
 
+      ## Instrucciones
+1. Clonar el repositorio: `git clone https://github.com/Luzma11/Taller2_22_Julio_2024.git`
+2. Abrir `index.html` en tu navegador favorito.
+
+
+## Contacto
+Para más información, puedes contactarme en [mi_email@example.com][def].
+
+
+[def]: luz.arias@gmail.com
